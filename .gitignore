@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .idea
 Algorythms.iml
+.gitignore
 
 ### Eclipse ###
 .apt_generated
